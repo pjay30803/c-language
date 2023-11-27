@@ -8,4 +8,6 @@ int main()
 	
 	f=(t*9/5)+32;
 	printf("%d",f);
+	printf("%d",f);
+	printf("%d",f);
 }
